@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . "/Classes/Movie.php";
+require_once __DIR__ . "/classes/movie.php";
 
 $wind = new Movie("Il vento che accarezza l'erba", '10-11-2006', 'Ken Loach', 'Historic, Drama');
 $ryan = new Movie('Salvate il soldato Ryan', '30-10-19989', 'Steven Spielberg', 'Historic, Drama');
